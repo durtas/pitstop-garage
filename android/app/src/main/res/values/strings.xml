@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PitStop Garage</string>
+    <string name="slogan">Peças para o teu carro</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="lembrar_me">Lembrar-me</string>
+    <string name="entrar">Entrar</string>
+    <string name="sem_conta">Ainda não tens conta?</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="configuracoes">Configurações</string>
 </resources>
